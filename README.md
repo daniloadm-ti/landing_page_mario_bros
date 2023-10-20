@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros** ao usar _HTML_ e _CSS_.
+Este projeto é o resultado de uma aula realizada pelo programador Leo Vargas, onde ele propõe uma nova landing page para o filme do Super Mario Bros. Durante a aula, utilizamos técnicas de HTML, CSS, técnicas de resposividade, uso semântico do HTML e animações com AOS.
 
 ## 🚀 Tecnologias
 
@@ -18,21 +18,9 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 
 ## 📔 Conhecimentos abordados
 
-- [x] Uso semântico do HTML
-- [x] Carregamento de video no background
-- [x] Váriaveis do css no `:root`
-- [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
-- [x] Uso do CSS Flexbox
-- [x] Efeitos com a propriedade `transform` do css
-
-
-## 📝 Tema de casa
-
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
-
-## 📺 Tutorial no Youtube
-
-<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
- <img src="https://img.youtube.com/vi/6Ok-kUrBGp8/maxresdefault.jpg" width="100%" height="auto" />
-</a>
+- [x] Uso semântico do HTML;
+- [x] Carregamento de video no background;
+- [x] Váriaveis do css no `:root`;
+- [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/);
+- [x] Uso do CSS Flexbox;
+- [x] Efeitos com a propriedade `transform` do css.
